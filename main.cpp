@@ -50,6 +50,8 @@ void testLinkedList(LinkedListBase<T>* linkedList)
 
     std::cout << "List after clearing: " << std::endl;
     std::cout << linkedList->toString() << std::endl;
+
+    std::cout << "-- Tests Complete! --" << std::endl;
 }
 
 
